@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lokesh-developer
-- 👀 I’m interested in javascript
+- 👀 I’m interested in javascript, c++, c#, reactjs, svelte, electron, nodejs, express
 - 🌱 I’m currently learning frameworks
 - 💞️ I’m looking to collaborate on covid-help
 
