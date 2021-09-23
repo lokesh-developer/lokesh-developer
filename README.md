@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @lokesh-developer.
-- 👀 I’m interested in javascript, c++, reactjs, svelte, electron, nodejs, express, mongodb, java, react-native, php.
-- 🌱 I’m currently learning frameworks.
+- 👀 I’m interested in javascript, c++, reactjs, svelte, electron, nodejs, express, mongodb, react-native, php.
+- 🌱 I’m currently learning frameworks in javascript.
 - 💞️ I’m working on 3 private projects.
