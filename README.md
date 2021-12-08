@@ -5,7 +5,7 @@
 
 <h2>Profile stats</h2>
 
-  <a href="https://github.com/kalpita01">
+  <a href="https://github.com/lokesh-developer">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lokesh-developer&show_icons=true&hide=issues&count_private=true" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-developer&layout=compact" />
   </a>
