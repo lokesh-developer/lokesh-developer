@@ -2,6 +2,7 @@
 - 👀 I’m interested in javascript, c++, reactjs, svelte, electron, nodejs, express, mongodb, react-native, php.
 - 🌱 I’m currently learning frameworks in javascript.
 - 💞️ I’m working on 3 private projects.
+- ✌ I'm in B.Tech CS First year.
 
 <h2>Profile stats</h2>
 
