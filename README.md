@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Lokesh Kabra.
-- 🌱 I’m currently learning frameworks in javascript.
-- 💞️ I’m working on 3 private projects.
-- ✌ I'm in B.Tech CS First year.
+-  👋 Hi, I’m Lokesh Kabra.
+-  🌱 I’m currently learning frameworks in javascript.
+-  💞️ I’m working on 3 private projects.
+-  ✌ I'm in B.Tech CS First year.
 
 <h2>Profile stats</h2>
 
