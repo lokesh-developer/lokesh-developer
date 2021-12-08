@@ -10,3 +10,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-developer&layout=compact" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokesh-developer"/>
   </a>
+
+
+<h2 align="center"></h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh-developer&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh-developer" /> </p>
