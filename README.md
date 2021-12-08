@@ -19,16 +19,23 @@
 - C++
 - PHP
 
-<h2>Frameworks I work with</h2>
+<h2>Libraries/Frameworks</h2>
 
 - React Js
 - React Native (Just started)
 - Svelte
+- Redux
+- Jquery
+- Chakra-ui
+- Material-ui
+- Bootstrap
+- React-router
 
 <h2>Databases I work with</h2>
 
 - MongoDb
 - MySQL
+- Firebase
 
 <h2>Deployment</h2>
 
@@ -37,6 +44,14 @@
 - Vercel
 - Netlify
 - GitHub Pages
+
+<h2>Tools</h2>
+
+- Ubuntu
+- Windows
+- Kali Linux
+- VS code
+- Git
 
 <h3>NodeJS is not a framework and it's not a programming language.😂</h3>
 
