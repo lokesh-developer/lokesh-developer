@@ -8,4 +8,5 @@
   <a href="https://github.com/lokesh-developer">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lokesh-developer&show_icons=true&hide=issues&count_private=true" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-developer&layout=compact" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokesh-developer"/>
   </a>
