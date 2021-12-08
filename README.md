@@ -19,8 +19,6 @@
 - C++
 - PHP
 
-<h3>NodeJS is not a framework and it's not a programming language.😂</h3>
-
 <h2>Frameworks I work with</h2>
 
 - React Js
@@ -39,6 +37,8 @@
 - Vercel
 - Netlify
 - GitHub Pages
+
+<h3>NodeJS is not a framework and it's not a programming language.😂</h3>
 
 <h2 align="center"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh-developer&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh-developer" /> </p>
