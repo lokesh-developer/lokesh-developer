@@ -21,7 +21,7 @@
 
 <h3>NodeJS is not a framework and it's not a programming language.😂</h3>
 
-<h2>Frameworks I used!</h2>
+<h2>Frameworks I work with</h2>
 
 - React Js
 - React Native (Just started)
