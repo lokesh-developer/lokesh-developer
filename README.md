@@ -16,37 +16,37 @@
 
 <h2>Programming I know</h2>
 
-- Javascript
-- C++
-- PHP
-- Ruby (basics)
+- Javascript (Advanced)
+- C++ (Beginner)
+- PHP (Intermediate)
+- Ruby (Beginner)
 
 <h2>Libraries/Frameworks</h2>
 
-- React Js
-- Ruby on rails (Just started)
-- React Native (Just started)
-- Svelte
-- Redux
-- Jquery
-- Chakra-ui
-- Material-ui
-- Bootstrap
-- React-router
+- React Js (Intermediate)
+- Ruby on rails (Beginner)
+- React Native (Beginner)
+- Svelte (Beginner)
+- Redux (Beginner)
+- Jquery (Intermediate)
+- Chakra-ui (Advanced)
+- Material-ui (Beginner)
+- Bootstrap (Intermediate)
+- React-router (Intermediate)
 
 <h2>Databases I work with</h2>
 
-- MongoDb
-- MySQL
-- Firebase
+- MongoDb (Intermediate)
+- MySQL (Intermediate)
+- Firebase (Beginner)
 
 <h2>Deployment</h2>
 
-- Heroku
-- Digital Ocean
-- Vercel
-- Netlify
-- GitHub Pages
+- Heroku (Beginner)
+- Digital Ocean (Beginner)
+- Vercel (Intermediate)
+- Netlify (Intermediate)
+- GitHub Pages (Intermediate)
 
 <h2>Tools</h2>
 
