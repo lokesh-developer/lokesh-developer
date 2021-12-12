@@ -16,45 +16,45 @@
 
 <h2>Programming I know</h2>
 
-- Javascript (Advanced)
-- C++ (Beginner)
-- PHP (Intermediate)
-- Ruby (Beginner)
+- Javascript (Advanced.)
+- C++ (Beginner...)
+- PHP (Intermediate...)
+- Ruby (Beginner...)
 
 <h2>Libraries/Frameworks</h2>
 
-- React Js (Intermediate)
-- Ruby on rails (Beginner)
-- React Native (Beginner)
-- Svelte (Beginner)
-- Redux (Beginner)
-- Jquery (Intermediate)
-- Chakra-ui (Advanced)
-- Material-ui (Beginner)
-- Bootstrap (Intermediate)
-- React-router (Intermediate)
+- React Js (Intermediate...)
+- Ruby on rails (Beginner...)
+- React Native (Beginner...)
+- Svelte (Beginner...)
+- Redux (Beginner...)
+- Jquery (Intermediate...)
+- Chakra-ui (Advanced.)
+- Material-ui (Beginner...)
+- Bootstrap (Intermediate...)
+- React-router (Intermediate...)
 
 <h2>Databases I work with</h2>
 
-- MongoDb (Intermediate)
-- MySQL (Intermediate)
-- Firebase (Beginner)
+- MongoDb (Intermediate...)
+- MySQL (Intermediate...)
+- Firebase (Beginner...)
 
 <h2>Deployment</h2>
 
-- Heroku (Beginner)
-- Digital Ocean (Beginner)
-- Vercel (Intermediate)
-- Netlify (Intermediate)
-- GitHub Pages (Intermediate)
+- Heroku (Beginner...)
+- Digital Ocean (Beginner...)
+- Vercel (Intermediate...)
+- Netlify (Intermediate...)
+- GitHub Pages (Intermediate...)
 
 <h2>Tools</h2>
 
-- Ubuntu (Intermediate)
-- Windows (Advanced)
-- Kali Linux (Beginner)
-- VS code (Intermediate)
-- Git (Intermediate)
+- Ubuntu (Intermediate...)
+- Windows (Advanced.)
+- Kali Linux (Beginner...)
+- VS code (Intermediate...)
+- Git (Intermediate...)
 
 <h3>NodeJS is not a framework and it's not a programming language.😂</h3>
 
