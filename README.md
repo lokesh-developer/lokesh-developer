@@ -19,10 +19,12 @@
 - Javascript
 - C++
 - PHP
+- Ruby (basics)
 
 <h2>Libraries/Frameworks</h2>
 
 - React Js
+- Ruby on rails (Just started)
 - React Native (Just started)
 - Svelte
 - Redux
