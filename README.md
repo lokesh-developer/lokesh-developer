@@ -50,11 +50,11 @@
 
 <h2>Tools</h2>
 
-- Ubuntu
-- Windows
-- Kali Linux
-- VS code
-- Git
+- Ubuntu (Intermediate)
+- Windows (Advanced)
+- Kali Linux (Beginner)
+- VS code (Intermediate)
+- Git (Intermediate)
 
 <h3>NodeJS is not a framework and it's not a programming language.😂</h3>
 
