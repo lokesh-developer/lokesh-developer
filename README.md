@@ -1,6 +1,6 @@
 -  👋 Hi, I’m Lokesh Kabra.
 -  🌱 I’m currently learning frameworks in javascript.
--  💞️ I’m working on 3 private projects.
+-  💞️ I’m working on 4 private projects.
 -   ✌ I'm in B.Tech CS First year.
 
 <h2>Profile stats</h2>
@@ -18,12 +18,14 @@
 
 - Javascript (Advanced.)
 - C++ (Beginner...)
+- Python (Beginner...)
 - PHP (Intermediate...)
 - Ruby (Beginner...)
 
 <h2>Libraries/Frameworks</h2>
 
 - React Js (Intermediate...)
+- Django (Beginner...)
 - Ruby on rails (Beginner...)
 - React Native (Beginner...)
 - Svelte (Beginner...)
