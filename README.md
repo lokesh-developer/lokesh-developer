@@ -1,5 +1,5 @@
 -  👋 Hi, I’m Lokesh Kabra.
--  🌱 I’m currently learning frameworks in javascript.
+-  🌱 I’m currently learning frameworks in javascript, python && ruby.
 -  💞️ I’m working on 4 private projects.
 -   ✌ I'm in B.Tech CS First year.
 
