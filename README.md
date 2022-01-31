@@ -18,6 +18,7 @@
 
 - Javascript (Advanced.)
 - C++ (Beginner...)
+- C (Beginner...)
 - Python (Beginner...)
 - PHP (Intermediate...)
 - Ruby (Beginner...)
