@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lokesh Kabra</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Krsna's Devotee</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh-developer&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh-developer" /> </p>
 
@@ -7,9 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/lokesh__kabra" target="blank"><img src="https://img.shields.io/twitter/follow/lokesh__kabra?logo=twitter&style=for-the-badge" alt="lokesh__kabra" /></a> </p>
 
+- 🔭 I’m currently working on [We Are Engineer](https://weareengineer.com)
+
 - 🌱 I’m currently learning **Flutter**
 
+- 👨‍💻 All of my projects are available at [diligentcoder.me](diligentcoder.me)
+
 - 💬 Ask me about **Anything in coding**
+
+- 📫 How to reach me **lkabra28@gmail.com**
+
+- ⚡ Fun fact **I think I am genius**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
