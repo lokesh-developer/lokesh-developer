@@ -1,5 +1,8 @@
+![logo](https://github.com/lokesh-developer/lokesh-developer/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Lokesh Kabra</h1>
 <h3 align="center">Krsna's Devotee</h3>
+
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/5f/c6/1d/5fc61d2ac46acd272baa5275209e2bb9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh-developer&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh-developer" /> </p>
 
