@@ -1,12 +1,14 @@
 ![logo](https://github.com/lokesh-developer/lokesh-developer/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Lokesh Kabra</h1>
-<h3 align="center">Krsna's Devotee</h3>
+<h3 align="center">Krsna's Devotee!!</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/5f/c6/1d/5fc61d2ac46acd272baa5275209e2bb9.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh-developer&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh-developer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokesh-developer" alt="lokesh-developer" /></a> </p>
+
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/5f/c6/1d/5fc61d2ac46acd272baa5275209e2bb9.gif">
 
 <p align="left"> <a href="https://twitter.com/lokesh__kabra" target="blank"><img src="https://img.shields.io/twitter/follow/lokesh__kabra?logo=twitter&style=for-the-badge" alt="lokesh__kabra" /></a> </p>
 
@@ -14,11 +16,11 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [diligentcoder.me](diligentcoder.me)
+- 👨‍💻 All of my projects are available at [LinkTree](https://linktr.ee/lokesh_kabra)
 
 - 💬 Ask me about **Anything in coding**
 
-- 📫 How to reach me **lkabra28@gmail.com**
+- 📫 How to reach me **lokesh.kabra@weareengineer.com**
 
 - ⚡ Fun fact **I think I am genius**
 
